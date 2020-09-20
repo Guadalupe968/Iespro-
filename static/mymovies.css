@@ -1,8 +1,7 @@
 
-h1 {
- color: #e9601a;
+h1.title {
+    color: #e9601a;
 }
-
 footer {
- text-align: center;
+    text-align: center;
 }
